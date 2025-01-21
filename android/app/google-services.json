@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665814523594",
+    "project_id": "srs-qutation",
+    "storage_bucket": "srs-qutation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665814523594:android:b218dacd73a697a7cc1e33",
+        "android_client_info": {
+          "package_name": "com.example.srs_quatation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMSe_yTJ2skKvFeoRBo6rbwl_Ge7aHIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
